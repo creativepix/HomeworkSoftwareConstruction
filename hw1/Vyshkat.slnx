@@ -1,0 +1,5 @@
+<Solution>
+    <Project Path="Vyshkat.ConsoleApp/Vyshkat.ConsoleApp.csproj"/>
+    <Project Path="Vyshkat.Domain/Vyshkat.Domain.csproj"/>
+    <Project Path="Vyshkat.Tests/Vyshkat.Tests.csproj"/>
+</Solution>
