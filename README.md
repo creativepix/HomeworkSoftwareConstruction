@@ -14,20 +14,4 @@
 cd hwX
 ```
 
-Собрать проект:
-
-```bash
-dotnet build
-```
-
-Запустить приложение. Для `hw1`:
-
-```bash
-dotnet run --project Vyshkat.ConsoleApp/Vyshkat.ConsoleApp.csproj
-```
-
-Запустить тесты:
-
-```bash
-dotnet test
-```
+Далее действовать согласно `hwX/README.MD`

@@ -16,6 +16,7 @@ var park = provider.GetRequiredService<Park>();
 while (true)
 {
     Console.WriteLine("""
+    
                       1 - добавить транспорт
                       2 - добавить вещь
                       3 - отчет
